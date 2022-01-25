@@ -23,7 +23,7 @@ addon | version | maintainers | summary
 [animal](animal/) | 12.0.1.0.0 | [![max3903](https://github.com/max3903.png?size=30px)](https://github.com/max3903) | Manage animals information
 [animal_owner](animal_owner/) | 12.0.1.0.0 | [![max3903](https://github.com/max3903.png?size=30px)](https://github.com/max3903) | Add owner to the animal
 [base_country_state_translatable](base_country_state_translatable/) | 12.0.1.0.0 |  | Translate Country States
-[base_location](base_location/) | 12.0.1.1.3 |  | Enhanced zip/npa management system
+[base_location](base_location/) | 12.0.1.1.4 |  | Enhanced zip/npa management system
 [base_location_geonames_import](base_location_geonames_import/) | 12.0.1.0.4 |  | Import zip entries from Geonames
 [base_location_nuts](base_location_nuts/) | 12.0.1.0.2 |  | NUTS Regions
 [base_partner_sequence](base_partner_sequence/) | 12.0.1.0.1 |  | Sets customer's code from a sequence
@@ -34,7 +34,7 @@ addon | version | maintainers | summary
 [partner_bank_active](partner_bank_active/) | 12.0.1.0.0 |  | This module allows to deactivate a partner bank account.
 [partner_capital](partner_capital/) | 12.0.1.0.0 |  | Partners Capital
 [partner_coc](partner_coc/) | 12.0.1.0.0 |  | Adds field 'Chamber Of Commerce Registration Number'
-[partner_company_group](partner_company_group/) | 12.0.1.2.0 |  | Adds the possibility to add a company group to a company
+[partner_company_group](partner_company_group/) | 12.0.1.2.1 |  | Adds the possibility to add a company group to a company
 [partner_company_type](partner_company_type/) | 12.0.1.1.0 |  | Adds a company type to partner that are companies
 [partner_contact_access_link](partner_contact_access_link/) | 12.0.1.0.0 | [![Yajo](https://github.com/Yajo.png?size=30px)](https://github.com/Yajo) | Allow to visit the full contact form from a company
 [partner_contact_address_default](partner_contact_address_default/) | 12.0.1.1.0 |  | Set a default delivery and invoice address for contacts
@@ -65,8 +65,8 @@ addon | version | maintainers | summary
 [partner_industry_parent](partner_industry_parent/) | 12.0.2.0.0 |  | This module add a parent relation to the partner industry
 [partner_industry_secondary](partner_industry_secondary/) | 12.0.1.0.1 |  | Add secondary partner industries
 [partner_label](partner_label/) | 12.0.1.1.0 |  | Print partner labels
-[partner_multi_relation](partner_multi_relation/) | 12.0.1.2.1 |  | Partner Relations
-[partner_multi_relation_tabs](partner_multi_relation_tabs/) | 12.0.1.2.0 |  | Show partner relations in own tab
+[partner_multi_relation](partner_multi_relation/) | 12.0.2.0.0 |  | Partner Relations
+[partner_multi_relation_tabs](partner_multi_relation_tabs/) | 12.0.2.0.0 |  | Show partner relations in own tab
 [partner_noncommercial](partner_noncommercial/) | 12.0.2.0.0 |  | Partner Non Commercial
 [partner_phone_extension](partner_phone_extension/) | 12.0.1.0.0 |  | Partner Phone Number Extension
 [partner_phonecall_schedule](partner_phonecall_schedule/) | 12.0.1.0.0 |  | Track the time and days your partners expect phone calls
