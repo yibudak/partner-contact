@@ -80,7 +80,7 @@ class ResPartner(models.Model):
         conf = self.env['ir.config_parameter'].sudo().get_param(
             'partner_email_check_check_deliverability', 'False'
         )
-        return conf == 'True'
+        return conf == 'True' and not self._context.get("connector_request")
 
     @api.model
     def create(self, vals):
